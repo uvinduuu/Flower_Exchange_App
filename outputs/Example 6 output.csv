@@ -1,0 +1,9 @@
+Order ID,Client Order ID,Instrument,Side,Exec Status,Quantity,Price,Reason,Transaction Time
+ord14,aa13,Lotus,1,New,100,55,Accepted,2024.10.17-17.53.41.-759
+ord15,aa14,Lotus,1,New,100,65,Accepted,2024.10.17-17.53.41.-758
+ord16,aa15,Lotus,2,PFill,100,1,Accepted,2024.10.17-17.53.41.-758
+ord15,aa14,Lotus,1,Fill,100,65,Accepted,2024.10.17-17.53.41.-758
+ord16,aa15,Lotus,2,PFill,100,1,Accepted,2024.10.17-17.53.41.-758
+ord14,aa13,Lotus,1,Fill,100,55,Accepted,2024.10.17-17.53.41.-758
+ord17,aa16,Lotus,1,Fill,100,2,Accepted,2024.10.17-17.53.41.-758
+ord16,aa15,Lotus,2,Fill,100,1,Accepted,2024.10.17-17.53.41.-758
