@@ -1,0 +1,3 @@
+Order ID,Client Order ID,Instrument,Side,Exec Status,Quantity,Price,Reason,Transaction Time
+ord13,aa16,Tulip,2,Fill,100,65,Accepted,2024.11.25-13.49.28.888
+ord12,aa15,Tulip,1,PFill,100,65,Accepted,2024.11.25-13.49.28.888

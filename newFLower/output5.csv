@@ -1,0 +1,7 @@
+Order ID,Client Order ID,Instrument,Side,Exec Status,Quantity,Price,Reason,Transaction Time
+ord19,aa3,Rose,1,PFill,100,55,Accepted,2024.11.25-13.49.28.890
+ord17,aa1,Rose,2,Fill,100,55,Accepted,2024.11.25-13.49.28.890
+ord19,aa3,Rose,1,PFill,100,65,Accepted,2024.11.25-13.49.28.890
+ord18,aa2,Rose,2,Fill,100,65,Accepted,2024.11.25-13.49.28.890
+ord20,aa4,Rose,2,Fill,100,100,Accepted,2024.11.25-13.49.28.891
+ord19,aa3,Rose,1,Fill,100,100,Accepted,2024.11.25-13.49.28.891
